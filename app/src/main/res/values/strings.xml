@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ez_life</string>
+    <string name="title">EZ To Do</string>
+    <string name="hint_add_todo">New task..</string>
+</resources>
